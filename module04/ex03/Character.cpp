@@ -72,7 +72,7 @@ void Character::equip(AMateria* m)
 
 	if (i < 4)
 		this->inv[i] = m;
-	else
+	else if (m)
 		delete m;
 }
 	
