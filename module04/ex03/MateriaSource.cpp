@@ -57,7 +57,7 @@ void MateriaSource::learnMateria(AMateria* m)
 
 	if (i < 4)
 		this->materia[i] = m;
-	else
+	else if (m)
 		delete m;
 }
 
