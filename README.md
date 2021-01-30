@@ -1,3 +1,5 @@
+![42-lyon](https://user-images.githubusercontent.com/45235527/106354618-6ec65a00-62f3-11eb-8688-ba9e0f4e77de.jpg)
+
 #  Piscine-CPP <img alt="C++ icon" src="https://img.icons8.com/color/452/c-plus-plus-logo.png" width="50" height="50">
 
 > *Project en collaboration avec <a href="https://github.com/JDesbordes">Jérôme Desbordes</a> (<a href="https://profile.intra.42.fr/users/jdesbord">jdesbord</a>).*
