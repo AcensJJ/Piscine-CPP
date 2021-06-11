@@ -6,7 +6,7 @@
 
 ## ✅ Module 00 :
 
-<strong>Description</strong>
+### <strong>Description</strong>
 
 Ce premier module de C++ est fait pour vous aider à comprendre les spécificités du C++ par rapport au C. C'est l'heure de plonger dans la programmation orientée objet !
 
@@ -17,7 +17,7 @@ basiques
 
 ## ✅ Module 01 :
 
-<strong>Description</strong>
+### <strong>Description</strong>
 
 none
 
@@ -27,7 +27,7 @@ streams
 
 ## ✅ Module 02 :
 
-<strong>Description</strong>
+### <strong>Description</strong>
 
 Ce module aborde la notion de polymorphisme, et les opérateurs
 
@@ -36,7 +36,7 @@ Ce module aborde la notion de polymorphisme, et les opérateurs
 
 ## ✅ Module 03 :
 
-<strong>Description</strong>
+### <strong>Description</strong>
 
 Ce module aborde l'héritage en C++
 
@@ -45,7 +45,7 @@ Ce module aborde l'héritage en C++
 
 ## ✅ Module 04 :
 
-<strong>Description</strong>
+### <strong>Description</strong>
 
 Polymorphisme de sous-type, classe abstraite et interfaces
 
@@ -54,7 +54,7 @@ Polymorphisme de sous-type, classe abstraite et interfaces
 
 ## ✅ Module 05 :
 
-<strong>Description</strong>
+### <strong>Description</strong>
 
 none
 
@@ -63,7 +63,7 @@ none
 
 ## ✅ Module 06 :
 
-<strong>Description</strong>
+### <strong>Description</strong>
 
 none
 
@@ -72,7 +72,7 @@ none
 
 ## ✅ Module 07 :
 
-<strong>Description</strong>
+### <strong>Description</strong>
 
 none
 
@@ -81,7 +81,7 @@ none
 
 ## ✅ Module 08 :
 
-<strong>Description</strong>
+### <strong>Description</strong>
 
 none
 
